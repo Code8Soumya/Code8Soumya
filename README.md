@@ -1,12 +1,10 @@
 # 👋 Welcome to my GitHub! <br>
 ## 💫 About Me: <br>
-**Passionate about Machine Learning (ML), Deep Learning (DL), Generative AI, and mastering Data Structures and  Algorithms (DSA).**
+*Passionate about Machine Learning (ML), Deep Learning (DL), Generative AI, and mastering Data Structures and  Algorithms (DSA).*
 
-## 🌐 Socials and Links:
+## 🌐 Links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumya-ranjan-senapati) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ssenapati721) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Soumya_777_)
 
 # 💻 Tech Stack:
 
