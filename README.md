@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # 👋 Welcome to my GitHub! <br>
 ## 💫 About Me: <br>
 *Passionate about Machine Learning (ML), Deep Learning (DL), Generative AI, and mastering Data Structures and  Algorithms (DSA).*
