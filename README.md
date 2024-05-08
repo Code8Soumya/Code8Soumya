@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-👋 Welcome to my GitHub!
+## 👋 Welcome to my GitHub!
 <br><br>
 🧠 About Me:
 <br><br>
-Passionate about Machine Learning (ML), Deep Learning (DL), Generative AI, and mastering Data Structures and Algorithms (DSA).
+** Passionate about Machine Learning (ML), Deep Learning (DL), Generative AI, and mastering Data Structures and  Algorithms (DSA). **
 
-## 🌐 Socials:
+## 🌐 Socials and Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumya-ranjan-senapati) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ssenapati721) 
@@ -14,7 +14,7 @@ Passionate about Machine Learning (ML), Deep Learning (DL), Generative AI, and m
 
 # 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
@@ -35,6 +35,3 @@ Passionate about Machine Learning (ML), Deep Learning (DL), Generative AI, and m
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Code8Soumya&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code8Soumya&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Code8Soumya&icon=2&color=0)](https://visitcount.itsvg.in)
