@@ -1,12 +1,12 @@
 ![Header](./github-header-image.png)
 
-# 👋 Welcome to my GitHub! <br>
-## 💫 About Me: <br>
+# 👋 Welcome to my GitHub! 
+
+## 💫 About Me: 
+
 ***Passionate about Machine Learning (ML), Deep Learning (DL), Generative AI, Software Engineering, and mastering Data Structures and Algorithms (DSA). Actively exploring opportunities across both Software Development and Machine Learning.***
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Code8Soumya&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Code8Soumya&theme=dracula&hide_border=false)<br/>
+![img](https://github-readme-streak-stats.herokuapp.com/?user=Code8Soumya&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code8Soumya&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
